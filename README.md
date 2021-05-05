@@ -3,7 +3,7 @@
     align="center"
     src="./static/svg/icekylin_1280_720.svg"
     alt="icekylin"
-    width="256px"
+    width="38.2%"
   />
 </p>
 <p align="center">
@@ -19,16 +19,16 @@
     ><img
       src="https://img.shields.io/badge/dynamic/json?label=Steam%20Friends&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198392223813&amp;logo=steam&amp;color=0b1a37&amp;labelColor=134375&amp;longCache=true"
       alt="mySteamFriend" /></a
-  ><br /><a href="https://t.me/kdwu1fan" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/discord/308323056592486420?label=&logo=telegram&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&cacheSeconds=60"
-      alt="Telegram community" /></a
   >&nbsp;<a href="javascript:;" target="_blank"
     ><img
       align=" center"
       src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"
-      alt="License: CC BY-NC-SA 4.0"
+      alt="License: CC BY-NC-SA 4.0" /></a
+  ><br /><a href="https://t.me/kdwu1fan" target="_blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/discord/308323056592486420?label=&logo=telegram&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&cacheSeconds=60"
+      alt="Telegram community"
   /></a>
 </p>
 
