@@ -2,7 +2,7 @@
   <img
     src="./static/pic/avatar.png"
     alt="avatar"
-    style="max-width: 512px; width: 38.2%"
+    width="256px"
   />
 </p>
 
@@ -57,7 +57,7 @@
     align="center"
     src="./static/pic/desktop.png"
     alt="desktop"
-    style="max-width: 1920px; width: 100%"
+    width="1920px"
   />
 </p>
 
