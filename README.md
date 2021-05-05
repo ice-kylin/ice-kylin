@@ -1,11 +1,20 @@
 <p align="center">
   <img
+    src="./static/pic/avatar.png"
+    alt="avatar"
+    style="max-width: 512px; width: 38.2%"
+  />
+</p>
+
+<p align="center">
+  <img
     align="center"
     src="./static/svg/icekylin_1280_720.svg"
     alt="icekylin"
     width="38.2%"
   />
 </p>
+
 <p align="center">
   <a href="https://twitter.com/icekylin_" target="_blank"
     ><img
@@ -41,8 +50,33 @@
 - 💬 Ask me about Python, CSS, HTML, Linux...
 - 📫 How to reach me: qxw092@student.bham.ac.uk
 
+## Archlinux
+
+<p align="center">
+  <img
+    align="center"
+    src="./static/pic/desktop.png"
+    alt="desktop"
+    style="max-width: 1920px; width: 100%"
+  />
+</p>
+
+I'm using archlinux as my main os.
+
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
+    src="./static/svg/love_1280_360.svg"
+    alt="icekylin"
+    width="128px"
+  />
 </p>
