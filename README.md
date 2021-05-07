@@ -52,15 +52,39 @@
 - 💬 Ask me about Python, CSS, HTML, Linux...
 - 📫 How to reach me: qxw092@student.bham.ac.uk
 
-<p align="center">
-  <a href="https://github.com/ice-kylin"
-    ><img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&hide=issues" /><img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-kylin&layout=compact&card_width=445"
-  /></a>
-</p>
+<div>
+  <div
+    style="
+      position: absolute;
+      z-index: -1;
+      top: 10px;
+      right: 10px;
+      left: 10px;
+      bottom: 10px;
+      background-color: #ff3cac;
+      background-image: linear-gradient(
+        225deg,
+        #ff3cac 0%,
+        #784ba0 50%,
+        #2b86c5 100%
+      );
+      -webkit-filter: blur(15px);
+      filter: blur(15px);
+    "
+  ></div>
+  <p
+    align="center"
+    style="background-color: #fff; border-radius: 16px; padding: 16px"
+  >
+    <a href="https://github.com/ice-kylin"
+      ><img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&hide=issues&hide_border=true" /><img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-kylin&layout=compact&card_width=445&hide_border=true"
+    /></a>
+  </p>
+</div>
 
 ---
 
