@@ -53,7 +53,7 @@
 - 📫 How to reach me: qxw092@student.bham.ac.uk
 
 <div>
-  <div
+  <!-- <div
     style="
       position: absolute;
       z-index: -1;
@@ -71,15 +71,18 @@
       -webkit-filter: blur(15px);
       filter: blur(15px);
     "
-  ></div>
-  <p
-    align="center"
-    style="background-color: #fff; border-radius: 16px; padding: 16px"
-  >
-    <a href="https://github.com/ice-kylin"
-      ></br><img
+  ></div> -->
+  <p align="center">
+    <a href="https://github.com/ice-kylin"></a>
+      <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&hide=issues&hide_border=true" /><img
+        src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&hide=issues&hide_border=true"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ice-kylin"
+      ><img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-kylin&layout=compact&card_width=445&hide_border=true"
     /></a>
