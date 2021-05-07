@@ -52,6 +52,18 @@
 - 💬 Ask me about Python, CSS, HTML, Linux...
 - 📫 How to reach me: qxw092@student.bham.ac.uk
 
+<p align="center">
+  <a href="https://github.com/ice-kylin"
+    ><img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&hide=issues" /><img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-kylin&layout=compact&card_width=445"
+  /></a>
+</p>
+
+---
+
 ## My OS
 
 <p align="center">
@@ -69,14 +81,6 @@
 > I'm using [archlinux](https://archlinux.org/) as my main os.
 
 ---
-
-<p align="center">
-  <a href="https://github.com/ice-kylin"
-    ><img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=ice-kylin&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-  /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/ice-kylin"
