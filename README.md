@@ -9,4 +9,6 @@
 - arch-guide
 ```
 
-![visitors](https://count.getloli.com/get/@ice-kylin?theme=moebooru)
+<div align=center>
+  <img alt="visitors" src="https://count.getloli.com/get/@ice-kylin?theme=moebooru"/>
+</div>
