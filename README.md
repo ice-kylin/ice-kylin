@@ -7,8 +7,36 @@
 - Mood Design UI
 - rnetcat
 - arch-guide
+
+## 🤧 More About Me
+
+TBD.
+
+## 📚 Recent Blog
+
+TBD.
 ```
 
-<div align=center>
-  <img alt="visitors" src="https://count.getloli.com/get/@ice-kylin?theme=moebooru"/>
+<br />
+
+<p align="center">
+  <samp>
+    $ <a href="https://icekylin.online/" target="_blank">Blog</a> .
+    <a href="https://www.linkedin.com/in/icekylin/" target="_blank">Linkedin</a>
+    . <a href="https://twitter.com/icekylin_" target="_blank">X</a> .
+    <a href="https://space.bilibili.com/21705530" target="_blank">BiliBili</a> .
+    <a href="https://www.buymeacoffee.com/icekylin" target="_blank"
+      >Buy Me a Coffee</a
+    >
+    $
+  </samp>
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    alt="visitors"
+    src="https://count.getloli.com/get/@ice-kylin?theme=moebooru"
+  />
 </div>
